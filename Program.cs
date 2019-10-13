@@ -13,28 +13,32 @@ namespace testApp
 
     	static void fizzBuzz()
     	{
-    		for (int counter = 1; counter < 101; counter++) 
+    		for (int counter = 1; counter < 101; ) 
     		{
-    			if ( counter % 15 == 0)
+    			if ( (counter % 15  == 0 ) )
     			{
     				Console.WriteLine("FizzBuzz");
+    				counter++;
     			}
-    			if ( counter % 5 == 0)
+    			if ( (counter % 5  == 0 ) )
     			{
     				Console.WriteLine("Buzz");
+    				counter++;
     			}
-    			if ( counter % 3 == 0 )
+    			if ( (counter % 3  == 0 )  )
     			{
     				Console.WriteLine("Fizz");
+    				counter++;
     			}
     			else {
     				Console.WriteLine(counter);
+    				counter++;
     			}
     		}
     	}
         static void Main(string[] args)
         {
-            Hello();
+            // Hello();
             fizzBuzz();
         }
     }
