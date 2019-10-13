@@ -1,0 +1,11 @@
+/home/matthew/testApp/bin/Debug/netcoreapp3.0/testApp
+/home/matthew/testApp/bin/Debug/netcoreapp3.0/testApp.deps.json
+/home/matthew/testApp/bin/Debug/netcoreapp3.0/testApp.runtimeconfig.json
+/home/matthew/testApp/bin/Debug/netcoreapp3.0/testApp.runtimeconfig.dev.json
+/home/matthew/testApp/bin/Debug/netcoreapp3.0/testApp.dll
+/home/matthew/testApp/bin/Debug/netcoreapp3.0/testApp.pdb
+/home/matthew/testApp/obj/Debug/netcoreapp3.0/testApp.csprojAssemblyReference.cache
+/home/matthew/testApp/obj/Debug/netcoreapp3.0/testApp.AssemblyInfoInputs.cache
+/home/matthew/testApp/obj/Debug/netcoreapp3.0/testApp.AssemblyInfo.cs
+/home/matthew/testApp/obj/Debug/netcoreapp3.0/testApp.dll
+/home/matthew/testApp/obj/Debug/netcoreapp3.0/testApp.pdb
